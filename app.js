@@ -6,9 +6,9 @@ import nodemailer from "nodemailer";
 
 const app = express()
 const PORT = 5000;
-const email = "platformweb7@gmail.com";
-const passwd = "3W.G0D.m@";
-const sendTo = "yan2sambou@gmail.com"
+const email = "*****************";
+const passwd = "*********";
+const sendTo = "*****************"
 
 //Create Mail transporter
 let transporter = nodemailer.createTransport({
